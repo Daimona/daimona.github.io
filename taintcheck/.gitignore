@@ -1,0 +1,11 @@
+php.wasm
+php.js
+php.data
+gh-pages
+
+
+php-7.*
+*.phar
+
+.*.swp
+.*.swo
